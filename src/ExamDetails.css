@@ -1,0 +1,47 @@
+/* ExamDetails.css */
+
+.exam-details-container {
+  background-color: rgb(238, 238, 238);
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .existing-exams {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .add-exam{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .add-exam input,
+  .add-exam button {
+    
+    padding: 10px;
+    margin-top: 10px;
+    margin: 10px;
+  }
+  
+  button {
+    background-color: rgb(110, 172, 4);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  h1{
+    text-align: center;
+    color: rgb(110, 172, 4);
+    align-items: center;
+  }
+  body{
+   background-color: rgb(238, 238, 238);
+  }
